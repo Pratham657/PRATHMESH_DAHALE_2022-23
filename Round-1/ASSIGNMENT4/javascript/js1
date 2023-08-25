@@ -1,0 +1,44 @@
+// console.log("Hello world");
+// console.error("this is error");
+// console.warn("this is Warning");
+
+// var str="Hello World";
+
+// console.log(str)
+
+// var num=110;
+// console.log(num)
+
+// var boolvar=true;
+
+// var arr=[1,2,3,45,50]
+
+// console.log(arr)
+
+
+// var arr1=["Pratham","Rohan"]
+
+// console.log(arr1)
+
+// console.log(arr1[1])cl; 
+
+// var obj={my_name:"Pratham",class:14};
+// console.log(obj)
+
+// var a
+// console.log(typeof(a))
+
+
+const pi=30.14;
+var onevar=1;
+let variable="var1";
+console.log(onevar)
+sample();
+function sample(){
+    onevar=3;
+    console.log("the value of onevar is ="+onevar)
+}
+console.log("the new value of onevar is ="+onevar)
+
+
+

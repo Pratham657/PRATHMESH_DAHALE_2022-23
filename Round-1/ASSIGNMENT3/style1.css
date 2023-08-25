@@ -1,0 +1,64 @@
+th,
+td,
+tr {
+    border: 1px solid purple;
+}
+
+.nav {
+    text-align: center;
+    color: purple;
+    border: 4px coral solid;
+    background-color: rgb(47, 255, 248);
+    margin: 2px 550px 2px 550px;
+    border-radius: 15px;
+}
+
+.nav8 {
+    margin: 4px 990px 2px 350px;
+    padding-left: 5px;
+    border: 4px coral solid;
+    background-color: #00b7ff;
+}
+
+.nav1 {
+    margin: 4px 750px 2px 330px;
+    color: purple;
+
+}
+
+.nav4 {
+    margin: 4px 750px 2px 330px;
+    color: purple;
+    background-color: white;
+}
+
+.nav3 {
+    margin: 4px 750px 2px 330px;
+    color: purple;
+    background-color: white;
+
+}
+
+.nav2 {
+    margin: 4px 700px 2px 500px;
+    color: purple;
+    
+}
+
+.nav5 {
+    margin: 4px 600px 2px 330px;
+    color: purple;
+    border: 3px coral solid;
+    border-radius: 15px;
+    background-color: aqua;
+    padding-left: 2%;
+}
+
+.myclass {
+    color: purple;
+    text-align: center;
+}
+
+.n {
+    margin: 4px 600px 2px 100px;
+}
